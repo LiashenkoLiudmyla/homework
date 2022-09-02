@@ -1,0 +1,16 @@
+
+У відео показано як завантажувати плагіни:
+https://youtu.be/M82G3ezgDi4
+
+Список плагінів:
+1.Auto-Save on Window Change
+2.Code Spell Chacker
+3.Color Highlight
+4.CSS Peek
+5.ESLint
+6.file-icons
+7.HTML CSS Support
+8.open in browser
+9.path intellisense
+10.save typing
+11.visual studio IntelliCode
