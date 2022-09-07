@@ -30,7 +30,7 @@ body{
 }  
 .background{
     text-align: center;
-    padding: 138px 264px;
+    padding: 138px 0 264px;
     background-image: url(../img/pexels-harrison-candlin-2441454\ 1.png);
     background-repeat: no-repeat;
     background-size: cover;
@@ -76,7 +76,8 @@ body{
     text-align: center;
     color: #FFFFFF;
     text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
-    padding: 300px 133px 274px 130px;
+    padding: 300px 0 274px;
     margin: 0 auto;
+    max-width: 726px;
 
 }
