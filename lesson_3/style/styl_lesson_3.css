@@ -1,0 +1,82 @@
+body{
+    font-family: 'Open Sans', sans-serif;
+}
+
+.header{
+    margin: 53px 0px;
+}
+.nav_ul{
+    text-align: center;
+    margin: 20px;
+}
+.nav_li{
+    display: inline-block;
+    
+}
+.nav_li:not(:last-of-type){
+     margin-right: 47px;}
+
+.nav_link{
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 25px;
+    text-align: center;
+    color: #000000;
+    text-decoration: none;
+}
+.conteiner{
+    max-width: 1300px;
+    margin: 0 auto;
+}  
+.background{
+    text-align: center;
+    padding: 138px 264px;
+    background-image: url(../img/pexels-harrison-candlin-2441454\ 1.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+.background_title{
+    font-weight: 700;
+    font-size: 72px;
+    line-height: 98px;
+    text-align: center;
+    color: #FFFFFF;
+}
+.background_button{
+    width: 420px;
+    height: 70px;
+    border: none;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 49px;
+    color: #162C38;
+}
+
+
+.description{
+    background-color: rgba(26, 110, 136, 80%);
+    text-align: center;
+    
+}
+
+.description_title{
+    font-weight: 700;
+    font-size: 72px;
+    line-height: 98px;
+    text-align: center;
+    color: #FFFFFF; 
+    margin-bottom: 30px; 
+}
+.description_text{
+    font-weight: 720px;
+    font-size: 36px;
+    line-height: 49px;
+    text-align: center;
+    color: #FFFFFF;
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    padding: 300px 133px 274px 130px;
+    margin: 0 auto;
+
+}
