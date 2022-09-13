@@ -8,7 +8,7 @@ body{
 }
 
 
-.container{
+.container, .section_logo{
     max-width: 1140px;
     margin: 0 auto;
 }
@@ -108,9 +108,6 @@ body{
 }
 
 .section_logo{
-    background: white;
     padding: 58px 0 58px;
-    max-width: 1140px;
-    margin: 0 auto;
-    
+        
 }
