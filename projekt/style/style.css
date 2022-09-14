@@ -8,7 +8,7 @@ body{
 }
 
 
-.container, .section_logo{
+.container,.section_logo,.grid,.grid_Engage_Visitors{
     max-width: 1140px;
     margin: 0 auto;
 }
@@ -110,4 +110,25 @@ body{
 .section_logo{
     padding: 58px 0 58px;
         
+}
+
+.grid{display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-template-rows: repeat(3, 1fr);
+    gap: 20px;
+}
+
+.item:nth-child(3), .item:nth-child(4){
+    grid-row: span 2;
+}
+
+.section_Engage_Visitors{
+    background: rgba(0, 161, 198, 10%);
+    padding: 58px 0 58px;
+
+}
+
+.grid_Engage_Visitors{display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 20px;
 }
